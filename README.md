@@ -108,6 +108,6 @@ MapBiomas Alerta
  Melhorar análise de tendências históricas
 
 👤 Autor
-
-Feito por Agente AIRA 🤖
+Feito por Kaua Damasceno Rodrigues
 💡 Inspirado na preservação da Amazônia 🌳
+
